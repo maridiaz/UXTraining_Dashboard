@@ -16,7 +16,7 @@ En este proyecto, nos gustaría que trabajes en este reto de diseño para lo cua
 Proceso de diseño, todas las herramientas que utilizaste durante el proyecto, así como la planeación que tuviste que llevar durante la semana.
 Prototipo de alta fidelidad que muestre el producto.
 Las métricas y KPI's a medir.
-Presentació ejecutiva.
+Presentación ejecutiva.
 Recuerda hacer énfasis en los elementos que te llevaron a tomar decisiones de diseño, funcionalidad y lo que propone valor a tu propuesta.
 
 
