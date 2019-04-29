@@ -1,4 +1,4 @@
-# UXTraining_Dashboard
+# UI Challenge Dashboard
 Diseña un dashboard de administración de negocios para un freelance.
 De que manera podemos controlar, medir y rastear lo que sucede en el negocio de un freelance.
 
