@@ -52,6 +52,10 @@ La información sobre las citas agendadas.
 La opción de agregar una cita, desplegando un calendario y reloj.
 ![GitHub Propuesta](Interfaz/3.png)
 
+El calendario, ligado a Google Calendar, donde se visualizan los recordatorios, fechas importantes, citas, etc.
+![GitHub Propuesta](Interfaz/13.png)
+![GitHub Propuesta](Interfaz/14.png)
+
 La información sobre los pacientes.
 ![GitHub Propuesta](Interfaz/5.png)
 
@@ -68,10 +72,10 @@ La información sobre el inventario disponible en consultorio.
 ![GitHub Propuesta](Interfaz/9.png)
 
 * La información de Facebook Analytics (en realidad, la idea es poner el link que lleve directamente a la sección de Facebook Analytics de la fanpage).
-![GitHub Propuesta](Interfaz/Prototipo10.png)
+![GitHub Propuesta](Interfaz/11.png)
 
 * La información de Instagram Analytics, así como la información de Facebook, la idea es poner un link directamente a la cuenta de dicha red social.
-![GitHub Propuesta](Interfaz/Prototipo11.png)
+![GitHub Propuesta](Interfaz/12.png)
 
 
 
