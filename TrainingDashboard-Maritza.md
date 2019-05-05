@@ -41,22 +41,31 @@ Posteriormente, se diseñó en hoja y con lápiz la primera propuesta de dashboa
 
 En la primera iteración se llegó al diseño de alta fidelidad utilizando Adobe XD.
 Pantalla de dashboard
-![GitHub Propuesta](Interfaz/Prototipo1.png)
+![GitHub Propuesta](Interfaz/1.png)
 
 La barra de navegación se despliega mostrando las opciones de configuración, ayuda y cerrar sesión.
-![GitHub Propuesta](Interfaz/Prototipo2.png)
+![GitHub Propuesta](Interfaz/2.png)
 
 La información sobre las citas agendadas.
-![GitHub Propuesta](Interfaz/Prototipo3.png)
+![GitHub Propuesta](Interfaz/3.1.png)
+
+La opción de agregar una cita, desplegando un calendario y reloj.
+![GitHub Propuesta](Interfaz/3.png)
 
 La información sobre los pacientes.
-![GitHub Propuesta](Interfaz/Prototipo5.png)
+![GitHub Propuesta](Interfaz/5.png)
+
+La información sobre los pacientes.
+![GitHub Propuesta](Interfaz/6.png)
 
 La información sobre los odontólogos.
-![GitHub Propuesta](Interfaz/Prototipo7.png)
+![GitHub Propuesta](Interfaz/7.png)
+
+La información sobre los odontólogos.
+![GitHub Propuesta](Interfaz/8.png)
 
 La información sobre el inventario disponible en consultorio.
-![GitHub Propuesta](Interfaz/Prototipo9.png)
+![GitHub Propuesta](Interfaz/9.png)
 
 * La información de Facebook Analytics (en realidad, la idea es poner el link que lleve directamente a la sección de Facebook Analytics de la fanpage).
 ![GitHub Propuesta](Interfaz/Prototipo10.png)
