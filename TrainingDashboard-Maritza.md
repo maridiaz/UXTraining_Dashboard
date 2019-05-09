@@ -40,42 +40,50 @@ Posteriormente, se diseñó en hoja y con lápiz la primera propuesta de dashboa
 ![GitHub Propuesta](Prototipo/bajafidelidad5.jpg)
 
 En la primera iteración se llegó al diseño de alta fidelidad utilizando Adobe XD.
-Pantalla de dashboard
+Pantalla de inicio
 ![GitHub Propuesta](Interfaz/1.png)
 
+Pantalla de dashboard
+![GitHub Propuesta](Interfaz/4.png)
+
 La barra de navegación se despliega mostrando las opciones de configuración, ayuda y cerrar sesión.
-![GitHub Propuesta](Interfaz/2.png)
+![GitHub Propuesta](Interfaz/5.png)
 
 La información sobre las citas agendadas.
-![GitHub Propuesta](Interfaz/3.1.png)
+![GitHub Propuesta](Interfaz/7.png)
 
-La opción de agregar una cita, desplegando un calendario y reloj.
-![GitHub Propuesta](Interfaz/3.png)
+La opción de agregar una cita, desplegando un modal para solicitar información de paciente y posteriormente desplegando el calendario y reloj para agendar la cita.
+![GitHub Propuesta](Interfaz/10.png)
+![GitHub Propuesta](Interfaz/11.png)
+![GitHub Propuesta](Interfaz/12.png)
 
 El calendario, ligado a Google Calendar, donde se visualizan los recordatorios, fechas importantes, citas, etc.
 ![GitHub Propuesta](Interfaz/13.png)
 ![GitHub Propuesta](Interfaz/14.png)
 
 La información sobre los pacientes.
-![GitHub Propuesta](Interfaz/5.png)
+![GitHub Propuesta](Interfaz/13.png)
 
-La información sobre los pacientes.
-![GitHub Propuesta](Interfaz/6.png)
+La información sobre un paciente en específico desplegando un modal.
+![GitHub Propuesta](Interfaz/16.png)
+
+Un modal para agregar pacientes.
+![GitHub Propuesta](Interfaz/14.png)
 
 La información sobre los odontólogos.
-![GitHub Propuesta](Interfaz/7.png)
+![GitHub Propuesta](Interfaz/17.png)
 
 La información sobre los odontólogos.
-![GitHub Propuesta](Interfaz/8.png)
+![GitHub Propuesta](Interfaz/18.png)
 
 La información sobre el inventario disponible en consultorio.
-![GitHub Propuesta](Interfaz/9.png)
+![GitHub Propuesta](Interfaz/19.png)
 
 * La información de Facebook Analytics (en realidad, la idea es poner el link que lleve directamente a la sección de Facebook Analytics de la fanpage).
-![GitHub Propuesta](Interfaz/11.png)
+![GitHub Propuesta](Interfaz/20.png)
 
 * La información de Instagram Analytics, así como la información de Facebook, la idea es poner un link directamente a la cuenta de dicha red social.
-![GitHub Propuesta](Interfaz/12.png)
+![GitHub Propuesta](Interfaz/21.png)
 
 
 
