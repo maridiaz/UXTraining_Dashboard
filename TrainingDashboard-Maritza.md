@@ -85,6 +85,9 @@ La información sobre el inventario disponible en consultorio.
 * La información de Instagram Analytics, así como la información de Facebook, la idea es poner un link directamente a la cuenta de dicha red social.
 ![GitHub Propuesta](Interfaz/21.png)
 
+### Vídeo
+En el siguiente link se muestra un vídeo en Loom mostrando el flujo de navegación de las distintas pantallas que conforman el Dashboard: https://www.loom.com/share/57a05de5a08548ee9126209b1adc88ff
+
 
 
 
