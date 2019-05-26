@@ -1,5 +1,5 @@
 # UI Challenge Dashboard
-Propuesta de diseño de un dashboard de administración de negocios para un freelance, em este caso para un dentista. El objetivo es proponer una manera para tener control, poder visualizar datos o para rastrear lo que sucede en el negocio.
+Propuesta de diseño de un dashboard de administración de negocios para un freelance, en este caso para un dentista. El objetivo es proponer un diseño -fácil de entender- para tener control, visualizar datos o rastrear lo que sucede en el negocio.
 
 ## Sobre el reto
 - Proceso de trabajo
